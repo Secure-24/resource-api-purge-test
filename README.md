@@ -1,6 +1,8 @@
 # resource-api-purge-test
 Simple test case for testing Puppet Resource API types with [`purge`](https://github.com/crayfishx/puppet-purge.git) type
 
+Tested with Puppet 5.5.10, puppet-resource_api gem 1.8.4, and [`purge`](https://github.com/crayfishx/puppet-purge.git) commit e523a05.
+
 ## Setup
 
 Clone the forked `purge` repo:
