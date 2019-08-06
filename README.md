@@ -27,7 +27,7 @@ Notice: Applied catalog in 0.02 seconds
 ```sh
 $ cd modules/purge/
 
-$ git checkout handle-missing-property-method
+$ git checkout resource-api-compatibility
 
 $ cd -
 
